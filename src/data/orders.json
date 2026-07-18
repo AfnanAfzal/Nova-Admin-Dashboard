@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "ORD-5004",
+    "customer": "Fatima Sharif",
+    "customerAvatar": "https://i.pravatar.cc/150?img=2",
+    "email": "fatima.sharif1@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2010",
+        "name": "Vintage Nomad Rug",
+        "quantity": 2,
+        "price": 618.46
+      },
+      {
+        "productId": "PRD-2009",
+        "name": "Silk Blend Runner",
+        "quantity": 1,
+        "price": 361.35
+      },
+      {
+        "productId": "PRD-2035",
+        "name": "Leather Wallet",
+        "quantity": 1,
+        "price": 251.97
+      }
+    ],
+    "total": 1850.24,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-07-01T18:46:11.334992",
+    "shippingAddress": "Kandahar, Afghanistan"
+  },
+  {
+    "id": "ORD-5041",
+    "customer": "Jamal Karimi",
+    "customerAvatar": "https://i.pravatar.cc/150?img=10",
+    "email": "jamal.karimi9@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2046",
+        "name": "Wild Thyme Bundle",
+        "quantity": 3,
+        "price": 308.67
+      }
+    ],
+    "total": 926.01,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-06-25T20:46:11.335637",
+    "shippingAddress": "Ghazni, Afghanistan"
+  },
+  {
+    "id": "ORD-5048",
+    "customer": "Kabir Sharif",
+    "customerAvatar": "https://i.pravatar.cc/150?img=3",
+    "email": "kabir.sharif2@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2005",
+        "name": "Hand-painted Ceramic Vase",
+        "quantity": 2,
+        "price": 306.34
+      },
+      {
+        "productId": "PRD-2046",
+        "name": "Wild Thyme Bundle",
+        "quantity": 1,
+        "price": 308.67
+      }
+    ],
+    "total": 921.35,
+    "status": "Processing",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-06-24T19:46:11.335754",
+    "shippingAddress": "Jalalabad, Afghanistan"
+  },
+  {
+    "id": "ORD-5019",
+    "customer": "Sara Haidari",
+    "customerAvatar": "https://i.pravatar.cc/150?img=34",
+    "email": "sara.haidari33@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2023",
+        "name": "Dried Mulberries 1kg",
+        "quantity": 2,
+        "price": 221.98
+      }
+    ],
+    "total": 443.96,
+    "status": "Pending",
+    "paymentStatus": "Failed",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-06-23T22:46:11.335237",
+    "shippingAddress": "Bamyan, Afghanistan"
+  },
+  {
+    "id": "ORD-5002",
+    "customer": "Yusuf Rasooli",
+    "customerAvatar": "https://i.pravatar.cc/150?img=39",
+    "email": "yusuf.rasooli38@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2043",
+        "name": "Afghan Harmonium",
+        "quantity": 1,
+        "price": 130.06
+      }
+    ],
+    "total": 130.06,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-06-22T19:46:11.334967",
+    "shippingAddress": "Kandahar, Afghanistan"
+  },
+  {
+    "id": "ORD-5043",
+    "customer": "Bilal Kohistani",
+    "customerAvatar": "https://i.pravatar.cc/150?img=40",
+    "email": "bilal.kohistani39@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2008",
+        "name": "Turkmen Pattern Carpet",
+        "quantity": 2,
+        "price": 150.26
+      },
+      {
+        "productId": "PRD-2050",
+        "name": "Dried Rose Petals",
+        "quantity": 1,
+        "price": 95.1
+      },
+      {
+        "productId": "PRD-2019",
+        "name": "Afghan Kuchi Bracelet",
+        "quantity": 1,
+        "price": 103.65
+      },
+      {
+        "productId": "PRD-2016",
+        "name": "Lapis Lazuli Necklace",
+        "quantity": 1,
+        "price": 399.38
+      }
+    ],
+    "total": 898.65,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Cash on Delivery",
+    "date": "2026-06-19T02:46:11.335659",
+    "shippingAddress": "Ghazni, Afghanistan"
+  },
+  {
+    "id": "ORD-5031",
+    "customer": "Hina Sharif",
+    "customerAvatar": "https://i.pravatar.cc/150?img=41",
+    "email": "hina.sharif40@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2024",
+        "name": "Mixed Afghan Nuts Box",
+        "quantity": 2,
+        "price": 361.16
+      },
+      {
+        "productId": "PRD-2019",
+        "name": "Afghan Kuchi Bracelet",
+        "quantity": 2,
+        "price": 103.65
+      },
+      {
+        "productId": "PRD-2025",
+        "name": "Sun-dried Apricots 500g",
+        "quantity": 3,
+        "price": 356.35
+      }
+    ],
+    "total": 1998.67,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-06-18T19:46:11.335434",
+    "shippingAddress": "Herat, Afghanistan"
+  },
+  {
+    "id": "ORD-5058",
+    "customer": "Ehsan Barakzai",
+    "customerAvatar": "https://i.pravatar.cc/150?img=43",
+    "email": "ehsan.barakzai42@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2046",
+        "name": "Wild Thyme Bundle",
+        "quantity": 1,
+        "price": 308.67
+      },
+      {
+        "productId": "PRD-2029",
+        "name": "Decorative Water Jug",
+        "quantity": 3,
+        "price": 334.29
+      }
+    ],
+    "total": 1311.54,
+    "status": "Refunded",
+    "paymentStatus": "Refunded",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-06-18T12:46:11.336070",
+    "shippingAddress": "Jalalabad, Afghanistan"
+  },
+  {
+    "id": "ORD-5010",
+    "customer": "Jamal Karimi",
+    "customerAvatar": "https://i.pravatar.cc/150?img=10",
+    "email": "jamal.karimi9@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2026",
+        "name": "Glazed Clay Bowl Set",
+        "quantity": 2,
+        "price": 360.6
+      },
+      {
+        "productId": "PRD-2027",
+        "name": "Istalif Blue Vase",
+        "quantity": 2,
+        "price": 16.78
+      },
+      {
+        "productId": "PRD-2047",
+        "name": "Sun-dried Red Chili",
+        "quantity": 2,
+        "price": 352.48
+      },
+      {
+        "productId": "PRD-2007",
+        "name": "Baluchi Kilim",
+        "quantity": 3,
+        "price": 470.29
+      }
+    ],
+    "total": 2870.59,
+    "status": "Processing",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Cash on Delivery",
+    "date": "2026-06-18T03:46:11.335094",
+    "shippingAddress": "Herat, Afghanistan"
+  },
+  {
+    "id": "ORD-5034",
+    "customer": "Parwana Mangal",
+    "customerAvatar": "https://i.pravatar.cc/150?img=9",
+    "email": "parwana.mangal8@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2033",
+        "name": "Leather Sandals",
+        "quantity": 1,
+        "price": 72.43
+      },
+      {
+        "productId": "PRD-2024",
+        "name": "Mixed Afghan Nuts Box",
+        "quantity": 1,
+        "price": 361.16
+      },
+      {
+        "productId": "PRD-2002",
+        "name": "Woven Basket Set",
+        "quantity": 2,
+        "price": 245.91
+      },
+      {
+        "productId": "PRD-2020",
+        "name": "Gemstone Pendant",
+        "quantity": 2,
+        "price": 203.23
+      }
+    ],
+    "total": 1331.87,
+    "status": "Processing",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-06-15T20:46:11.335475",
+    "shippingAddress": "Herat, Afghanistan"
+  },
+  {
+    "id": "ORD-5007",
+    "customer": "Sara Karimi",
+    "customerAvatar": "https://i.pravatar.cc/150?img=29",
+    "email": "sara.karimi28@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2042",
+        "name": "Tabla Drum Set",
+        "quantity": 2,
+        "price": 448.28
+      },
+      {
+        "productId": "PRD-2002",
+        "name": "Woven Basket Set",
+        "quantity": 2,
+        "price": 245.91
+      },
+      {
+        "productId": "PRD-2004",
+        "name": "Mosaic Wall Art",
+        "quantity": 3,
+        "price": 306.45
+      },
+      {
+        "productId": "PRD-2031",
+        "name": "Handstitched Leather Bag",
+        "quantity": 1,
+        "price": 356.88
+      }
+    ],
+    "total": 2664.61,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-06-14T19:46:11.335026",
+    "shippingAddress": "Mazar-i-Sharif, Afghanistan"
+  },
+  {
+    "id": "ORD-5050",
+    "customer": "Sara Haidari",
+    "customerAvatar": "https://i.pravatar.cc/150?img=34",
+    "email": "sara.haidari33@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2026",
+        "name": "Glazed Clay Bowl Set",
+        "quantity": 2,
+        "price": 360.6
+      },
+      {
+        "productId": "PRD-2048",
+        "name": "Cardamom Pods 200g",
+        "quantity": 1,
+        "price": 24.07
+      },
+      {
+        "productId": "PRD-2029",
+        "name": "Decorative Water Jug",
+        "quantity": 2,
+        "price": 334.29
+      },
+      {
+        "productId": "PRD-2025",
+        "name": "Sun-dried Apricots 500g",
+        "quantity": 3,
+        "price": 356.35
+      }
+    ],
+    "total": 2482.9,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-06-13T06:46:11.335843",
+    "shippingAddress": "Bamyan, Afghanistan"
+  },
+  {
+    "id": "ORD-5054",
+    "customer": "Sara Karimi",
+    "customerAvatar": "https://i.pravatar.cc/150?img=29",
+    "email": "sara.karimi28@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2010",
+        "name": "Vintage Nomad Rug",
+        "quantity": 3,
+        "price": 618.46
+      }
+    ],
+    "total": 1855.38,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-06-03T03:46:11.335944",
+    "shippingAddress": "Kandahar, Afghanistan"
+  },
+  {
+    "id": "ORD-5033",
+    "customer": "Mariam Rahimi",
+    "customerAvatar": "https://i.pravatar.cc/150?img=42",
+    "email": "mariam.rahimi41@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2039",
+        "name": "Woven Wall Hanging",
+        "quantity": 1,
+        "price": 304.06
+      },
+      {
+        "productId": "PRD-2046",
+        "name": "Wild Thyme Bundle",
+        "quantity": 2,
+        "price": 308.67
+      }
+    ],
+    "total": 921.4,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-06-02T08:46:11.335456",
+    "shippingAddress": "Herat, Afghanistan"
+  },
+  {
+    "id": "ORD-5057",
+    "customer": "Bilal Sharif",
+    "customerAvatar": "https://i.pravatar.cc/150?img=13",
+    "email": "bilal.sharif12@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2046",
+        "name": "Wild Thyme Bundle",
+        "quantity": 3,
+        "price": 308.67
+      },
+      {
+        "productId": "PRD-2029",
+        "name": "Decorative Water Jug",
+        "quantity": 2,
+        "price": 334.29
+      },
+      {
+        "productId": "PRD-2014",
+        "name": "Traditional Perahan",
+        "quantity": 3,
+        "price": 448.7
+      }
+    ],
+    "total": 2940.69,
+    "status": "Cancelled",
+    "paymentStatus": "Failed",
+    "paymentMethod": "Credit Card",
+    "date": "2026-06-01T03:46:11.336058",
+    "shippingAddress": "Ghazni, Afghanistan"
+  },
+  {
+    "id": "ORD-5059",
+    "customer": "Layla Barakzai",
+    "customerAvatar": "https://i.pravatar.cc/150?img=8",
+    "email": "layla.barakzai7@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2011",
+        "name": "Embroidered Chapan Coat",
+        "quantity": 3,
+        "price": 542.55
+      },
+      {
+        "productId": "PRD-2046",
+        "name": "Wild Thyme Bundle",
+        "quantity": 1,
+        "price": 308.67
+      },
+      {
+        "productId": "PRD-2045",
+        "name": "Zerbaghali Drum",
+        "quantity": 2,
+        "price": 242.88
+      }
+    ],
+    "total": 2422.08,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-05-30T22:46:11.336115",
+    "shippingAddress": "Ghazni, Afghanistan"
+  },
+  {
+    "id": "ORD-5025",
+    "customer": "Sadia Noori",
+    "customerAvatar": "https://i.pravatar.cc/150?img=16",
+    "email": "sadia.noori15@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2050",
+        "name": "Dried Rose Petals",
+        "quantity": 2,
+        "price": 95.1
+      },
+      {
+        "productId": "PRD-2023",
+        "name": "Dried Mulberries 1kg",
+        "quantity": 3,
+        "price": 221.98
+      }
+    ],
+    "total": 856.14,
+    "status": "Refunded",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-05-28T21:46:11.335358",
+    "shippingAddress": "Kandahar, Afghanistan"
+  },
+  {
+    "id": "ORD-5035",
+    "customer": "Yusuf Rasooli",
+    "customerAvatar": "https://i.pravatar.cc/150?img=39",
+    "email": "yusuf.rasooli38@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2043",
+        "name": "Afghan Harmonium",
+        "quantity": 2,
+        "price": 130.06
+      }
+    ],
+    "total": 260.12,
+    "status": "Cancelled",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Cash on Delivery",
+    "date": "2026-05-27T00:46:11.335486",
+    "shippingAddress": "Mazar-i-Sharif, Afghanistan"
+  },
+  {
+    "id": "ORD-5017",
+    "customer": "Farid Amiri",
+    "customerAvatar": "https://i.pravatar.cc/150?img=4",
+    "email": "farid.amiri3@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2011",
+        "name": "Embroidered Chapan Coat",
+        "quantity": 3,
+        "price": 542.55
+      },
+      {
+        "productId": "PRD-2024",
+        "name": "Mixed Afghan Nuts Box",
+        "quantity": 2,
+        "price": 361.16
+      },
+      {
+        "productId": "PRD-2020",
+        "name": "Gemstone Pendant",
+        "quantity": 3,
+        "price": 203.23
+      }
+    ],
+    "total": 2959.66,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-05-25T10:46:11.335217",
+    "shippingAddress": "Kabul, Afghanistan"
+  },
+  {
+    "id": "ORD-5001",
+    "customer": "Jamal Rasooli",
+    "customerAvatar": "https://i.pravatar.cc/150?img=26",
+    "email": "jamal.rasooli25@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2029",
+        "name": "Decorative Water Jug",
+        "quantity": 3,
+        "price": 334.29
+      },
+      {
+        "productId": "PRD-2016",
+        "name": "Lapis Lazuli Necklace",
+        "quantity": 2,
+        "price": 399.38
+      },
+      {
+        "productId": "PRD-2024",
+        "name": "Mixed Afghan Nuts Box",
+        "quantity": 3,
+        "price": 361.16
+      },
+      {
+        "productId": "PRD-2007",
+        "name": "Baluchi Kilim",
+        "quantity": 3,
+        "price": 470.29
+      }
+    ],
+    "total": 4295.98,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-05-18T02:46:11.334952",
+    "shippingAddress": "Ghazni, Afghanistan"
+  },
+  {
+    "id": "ORD-5040",
+    "customer": "Omar Amiri",
+    "customerAvatar": "https://i.pravatar.cc/150?img=6",
+    "email": "omar.amiri5@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2023",
+        "name": "Dried Mulberries 1kg",
+        "quantity": 2,
+        "price": 221.98
+      },
+      {
+        "productId": "PRD-2002",
+        "name": "Woven Basket Set",
+        "quantity": 3,
+        "price": 245.91
+      },
+      {
+        "productId": "PRD-2027",
+        "name": "Istalif Blue Vase",
+        "quantity": 2,
+        "price": 16.78
+      },
+      {
+        "productId": "PRD-2004",
+        "name": "Mosaic Wall Art",
+        "quantity": 1,
+        "price": 306.45
+      }
+    ],
+    "total": 1521.7,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-05-09T05:46:11.335626",
+    "shippingAddress": "Kunduz, Afghanistan"
+  },
+  {
+    "id": "ORD-5009",
+    "customer": "Freshta Haidari",
+    "customerAvatar": "https://i.pravatar.cc/150?img=28",
+    "email": "freshta.haidari27@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2033",
+        "name": "Leather Sandals",
+        "quantity": 3,
+        "price": 72.43
+      },
+      {
+        "productId": "PRD-2039",
+        "name": "Woven Wall Hanging",
+        "quantity": 1,
+        "price": 304.06
+      },
+      {
+        "productId": "PRD-2028",
+        "name": "Ceramic Tea Set",
+        "quantity": 3,
+        "price": 460.87
+      },
+      {
+        "productId": "PRD-2007",
+        "name": "Baluchi Kilim",
+        "quantity": 3,
+        "price": 470.29
+      }
+    ],
+    "total": 3314.83,
+    "status": "Cancelled",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Cash on Delivery",
+    "date": "2026-05-07T16:46:11.335048",
+    "shippingAddress": "Kunduz, Afghanistan"
+  },
+  {
+    "id": "ORD-5042",
+    "customer": "Omar Amiri",
+    "customerAvatar": "https://i.pravatar.cc/150?img=6",
+    "email": "omar.amiri5@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2049",
+        "name": "Cumin Seeds 250g",
+        "quantity": 2,
+        "price": 202.01
+      },
+      {
+        "productId": "PRD-2046",
+        "name": "Wild Thyme Bundle",
+        "quantity": 2,
+        "price": 308.67
+      }
+    ],
+    "total": 1021.36,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-04-30T23:46:11.335647",
+    "shippingAddress": "Mazar-i-Sharif, Afghanistan"
+  },
+  {
+    "id": "ORD-5020",
+    "customer": "Shabnam Zazai",
+    "customerAvatar": "https://i.pravatar.cc/150?img=14",
+    "email": "shabnam.zazai13@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2001",
+        "name": "Hand-carved Wooden Box",
+        "quantity": 1,
+        "price": 410.69
+      }
+    ],
+    "total": 410.69,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-04-30T20:46:11.335246",
+    "shippingAddress": "Kunduz, Afghanistan"
+  },
+  {
+    "id": "ORD-5049",
+    "customer": "Mariam Rahimi",
+    "customerAvatar": "https://i.pravatar.cc/150?img=42",
+    "email": "mariam.rahimi41@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2035",
+        "name": "Leather Wallet",
+        "quantity": 3,
+        "price": 251.97
+      },
+      {
+        "productId": "PRD-2031",
+        "name": "Handstitched Leather Bag",
+        "quantity": 1,
+        "price": 356.88
+      },
+      {
+        "productId": "PRD-2017",
+        "name": "Silver Filigree Earrings",
+        "quantity": 2,
+        "price": 56.19
+      },
+      {
+        "productId": "PRD-2003",
+        "name": "Engraved Brass Tray",
+        "quantity": 2,
+        "price": 540.03
+      }
+    ],
+    "total": 2305.23,
+    "status": "Cancelled",
+    "paymentStatus": "Unpaid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-04-27T02:46:11.335824",
+    "shippingAddress": "Kunduz, Afghanistan"
+  },
+  {
+    "id": "ORD-5028",
+    "customer": "Farid Amiri",
+    "customerAvatar": "https://i.pravatar.cc/150?img=4",
+    "email": "farid.amiri3@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2020",
+        "name": "Gemstone Pendant",
+        "quantity": 2,
+        "price": 203.23
+      }
+    ],
+    "total": 406.46,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-04-23T03:46:11.335397",
+    "shippingAddress": "Herat, Afghanistan"
+  },
+  {
+    "id": "ORD-5012",
+    "customer": "Nadia Ghani",
+    "customerAvatar": "https://i.pravatar.cc/150?img=47",
+    "email": "nadia.ghani46@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2027",
+        "name": "Istalif Blue Vase",
+        "quantity": 2,
+        "price": 16.78
+      }
+    ],
+    "total": 33.56,
+    "status": "Cancelled",
+    "paymentStatus": "Failed",
+    "paymentMethod": "Credit Card",
+    "date": "2026-04-22T10:46:11.335120",
+    "shippingAddress": "Jalalabad, Afghanistan"
+  },
+  {
+    "id": "ORD-5044",
+    "customer": "Ahmad Amiri",
+    "customerAvatar": "https://i.pravatar.cc/150?img=46",
+    "email": "ahmad.amiri45@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2041",
+        "name": "Rubab (Traditional Lute)",
+        "quantity": 3,
+        "price": 252.84
+      }
+    ],
+    "total": 758.52,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-04-21T16:46:11.335669",
+    "shippingAddress": "Kabul, Afghanistan"
+  },
+  {
+    "id": "ORD-5032",
+    "customer": "Jamal Karimi",
+    "customerAvatar": "https://i.pravatar.cc/150?img=10",
+    "email": "jamal.karimi9@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2019",
+        "name": "Afghan Kuchi Bracelet",
+        "quantity": 3,
+        "price": 103.65
+      },
+      {
+        "productId": "PRD-2017",
+        "name": "Silver Filigree Earrings",
+        "quantity": 1,
+        "price": 56.19
+      },
+      {
+        "productId": "PRD-2047",
+        "name": "Sun-dried Red Chili",
+        "quantity": 2,
+        "price": 352.48
+      },
+      {
+        "productId": "PRD-2043",
+        "name": "Afghan Harmonium",
+        "quantity": 1,
+        "price": 130.06
+      }
+    ],
+    "total": 1202.16,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-04-16T09:46:11.335446",
+    "shippingAddress": "Bamyan, Afghanistan"
+  },
+  {
+    "id": "ORD-5051",
+    "customer": "Sara Faizi",
+    "customerAvatar": "https://i.pravatar.cc/150?img=35",
+    "email": "sara.faizi34@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2028",
+        "name": "Ceramic Tea Set",
+        "quantity": 3,
+        "price": 460.87
+      }
+    ],
+    "total": 1382.61,
+    "status": "Refunded",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-04-14T02:46:11.335854",
+    "shippingAddress": "Herat, Afghanistan"
+  },
+  {
+    "id": "ORD-5003",
+    "customer": "Shabnam Zazai",
+    "customerAvatar": "https://i.pravatar.cc/150?img=14",
+    "email": "shabnam.zazai13@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2037",
+        "name": "Carved Wooden Mirror Frame",
+        "quantity": 1,
+        "price": 588.0
+      },
+      {
+        "productId": "PRD-2014",
+        "name": "Traditional Perahan",
+        "quantity": 3,
+        "price": 448.7
+      }
+    ],
+    "total": 1934.1,
+    "status": "Processing",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-04-12T01:46:11.334979",
+    "shippingAddress": "Kabul, Afghanistan"
+  },
+  {
+    "id": "ORD-5015",
+    "customer": "Hamid Noori",
+    "customerAvatar": "https://i.pravatar.cc/150?img=20",
+    "email": "hamid.noori19@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2012",
+        "name": "Silk Scarf Set",
+        "quantity": 2,
+        "price": 363.26
+      }
+    ],
+    "total": 726.52,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-04-07T05:46:11.335193",
+    "shippingAddress": "Mazar-i-Sharif, Afghanistan"
+  },
+  {
+    "id": "ORD-5052",
+    "customer": "Tariq Yousafi",
+    "customerAvatar": "https://i.pravatar.cc/150?img=45",
+    "email": "tariq.yousafi44@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2043",
+        "name": "Afghan Harmonium",
+        "quantity": 2,
+        "price": 130.06
+      },
+      {
+        "productId": "PRD-2019",
+        "name": "Afghan Kuchi Bracelet",
+        "quantity": 3,
+        "price": 103.65
+      },
+      {
+        "productId": "PRD-2020",
+        "name": "Gemstone Pendant",
+        "quantity": 3,
+        "price": 203.23
+      }
+    ],
+    "total": 1180.76,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Cash on Delivery",
+    "date": "2026-04-06T15:46:11.335866",
+    "shippingAddress": "Kabul, Afghanistan"
+  },
+  {
+    "id": "ORD-5016",
+    "customer": "Omar Amiri",
+    "customerAvatar": "https://i.pravatar.cc/150?img=6",
+    "email": "omar.amiri5@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2037",
+        "name": "Carved Wooden Mirror Frame",
+        "quantity": 2,
+        "price": 588.0
+      },
+      {
+        "productId": "PRD-2043",
+        "name": "Afghan Harmonium",
+        "quantity": 1,
+        "price": 130.06
+      }
+    ],
+    "total": 1306.06,
+    "status": "Pending",
+    "paymentStatus": "Unpaid",
+    "paymentMethod": "PayPal",
+    "date": "2026-03-30T16:46:11.335205",
+    "shippingAddress": "Ghazni, Afghanistan"
+  },
+  {
+    "id": "ORD-5037",
+    "customer": "Yusuf Amiri",
+    "customerAvatar": "https://i.pravatar.cc/150?img=30",
+    "email": "yusuf.amiri29@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2015",
+        "name": "Cotton Table Runner",
+        "quantity": 2,
+        "price": 515.66
+      },
+      {
+        "productId": "PRD-2035",
+        "name": "Leather Wallet",
+        "quantity": 1,
+        "price": 251.97
+      },
+      {
+        "productId": "PRD-2016",
+        "name": "Lapis Lazuli Necklace",
+        "quantity": 2,
+        "price": 399.38
+      },
+      {
+        "productId": "PRD-2020",
+        "name": "Gemstone Pendant",
+        "quantity": 3,
+        "price": 203.23
+      }
+    ],
+    "total": 2691.74,
+    "status": "Refunded",
+    "paymentStatus": "Failed",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-03-29T13:46:11.335548",
+    "shippingAddress": "Bamyan, Afghanistan"
+  },
+  {
+    "id": "ORD-5021",
+    "customer": "Idris Wardak",
+    "customerAvatar": "https://i.pravatar.cc/150?img=12",
+    "email": "idris.wardak11@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2001",
+        "name": "Hand-carved Wooden Box",
+        "quantity": 2,
+        "price": 410.69
+      }
+    ],
+    "total": 821.38,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-03-29T12:46:11.335255",
+    "shippingAddress": "Kandahar, Afghanistan"
+  },
+  {
+    "id": "ORD-5008",
+    "customer": "Rashid Mangal",
+    "customerAvatar": "https://i.pravatar.cc/150?img=38",
+    "email": "rashid.mangal37@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2009",
+        "name": "Silk Blend Runner",
+        "quantity": 2,
+        "price": 361.35
+      }
+    ],
+    "total": 722.7,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-03-29T10:46:11.335035",
+    "shippingAddress": "Jalalabad, Afghanistan"
+  },
+  {
+    "id": "ORD-5045",
+    "customer": "Sadia Stanikzai",
+    "customerAvatar": "https://i.pravatar.cc/150?img=5",
+    "email": "sadia.stanikzai4@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2016",
+        "name": "Lapis Lazuli Necklace",
+        "quantity": 1,
+        "price": 399.38
+      },
+      {
+        "productId": "PRD-2037",
+        "name": "Carved Wooden Mirror Frame",
+        "quantity": 3,
+        "price": 588.0
+      },
+      {
+        "productId": "PRD-2027",
+        "name": "Istalif Blue Vase",
+        "quantity": 3,
+        "price": 16.78
+      }
+    ],
+    "total": 2213.72,
+    "status": "Pending",
+    "paymentStatus": "Refunded",
+    "paymentMethod": "Credit Card",
+    "date": "2026-03-27T14:46:11.335709",
+    "shippingAddress": "Kabul, Afghanistan"
+  },
+  {
+    "id": "ORD-5018",
+    "customer": "Nadia Popal",
+    "customerAvatar": "https://i.pravatar.cc/150?img=32",
+    "email": "nadia.popal31@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2018",
+        "name": "Turquoise Ring Set",
+        "quantity": 2,
+        "price": 559.87
+      }
+    ],
+    "total": 1119.74,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Cash on Delivery",
+    "date": "2026-03-20T21:46:11.335227",
+    "shippingAddress": "Kandahar, Afghanistan"
+  },
+  {
+    "id": "ORD-5039",
+    "customer": "Naveed Stanikzai",
+    "customerAvatar": "https://i.pravatar.cc/150?img=33",
+    "email": "naveed.stanikzai32@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2049",
+        "name": "Cumin Seeds 250g",
+        "quantity": 1,
+        "price": 202.01
+      }
+    ],
+    "total": 202.01,
+    "status": "Processing",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-03-16T03:46:11.335608",
+    "shippingAddress": "Kandahar, Afghanistan"
+  },
+  {
+    "id": "ORD-5023",
+    "customer": "Karim Haidari",
+    "customerAvatar": "https://i.pravatar.cc/150?img=24",
+    "email": "karim.haidari23@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2019",
+        "name": "Afghan Kuchi Bracelet",
+        "quantity": 2,
+        "price": 103.65
+      },
+      {
+        "productId": "PRD-2008",
+        "name": "Turkmen Pattern Carpet",
+        "quantity": 1,
+        "price": 150.26
+      },
+      {
+        "productId": "PRD-2026",
+        "name": "Glazed Clay Bowl Set",
+        "quantity": 3,
+        "price": 360.6
+      },
+      {
+        "productId": "PRD-2002",
+        "name": "Woven Basket Set",
+        "quantity": 2,
+        "price": 245.91
+      }
+    ],
+    "total": 1931.18,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-03-16T02:46:11.335280",
+    "shippingAddress": "Kandahar, Afghanistan"
+  },
+  {
+    "id": "ORD-5055",
+    "customer": "Karim Haidari",
+    "customerAvatar": "https://i.pravatar.cc/150?img=24",
+    "email": "karim.haidari23@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2024",
+        "name": "Mixed Afghan Nuts Box",
+        "quantity": 1,
+        "price": 361.16
+      },
+      {
+        "productId": "PRD-2025",
+        "name": "Sun-dried Apricots 500g",
+        "quantity": 3,
+        "price": 356.35
+      },
+      {
+        "productId": "PRD-2037",
+        "name": "Carved Wooden Mirror Frame",
+        "quantity": 1,
+        "price": 588.0
+      }
+    ],
+    "total": 2018.21,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-03-14T03:46:11.335956",
+    "shippingAddress": "Mazar-i-Sharif, Afghanistan"
+  },
+  {
+    "id": "ORD-5036",
+    "customer": "Nadia Ghani",
+    "customerAvatar": "https://i.pravatar.cc/150?img=47",
+    "email": "nadia.ghani46@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2047",
+        "name": "Sun-dried Red Chili",
+        "quantity": 1,
+        "price": 352.48
+      },
+      {
+        "productId": "PRD-2029",
+        "name": "Decorative Water Jug",
+        "quantity": 2,
+        "price": 334.29
+      }
+    ],
+    "total": 1021.06,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-03-13T10:46:11.335496",
+    "shippingAddress": "Jalalabad, Afghanistan"
+  },
+  {
+    "id": "ORD-5026",
+    "customer": "Hina Sharif",
+    "customerAvatar": "https://i.pravatar.cc/150?img=41",
+    "email": "hina.sharif40@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2039",
+        "name": "Woven Wall Hanging",
+        "quantity": 3,
+        "price": 304.06
+      },
+      {
+        "productId": "PRD-2010",
+        "name": "Vintage Nomad Rug",
+        "quantity": 1,
+        "price": 618.46
+      }
+    ],
+    "total": 1530.64,
+    "status": "Processing",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Cash on Delivery",
+    "date": "2026-03-08T11:46:11.335376",
+    "shippingAddress": "Ghazni, Afghanistan"
+  },
+  {
+    "id": "ORD-5005",
+    "customer": "Layla Barakzai",
+    "customerAvatar": "https://i.pravatar.cc/150?img=8",
+    "email": "layla.barakzai7@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2002",
+        "name": "Woven Basket Set",
+        "quantity": 1,
+        "price": 245.91
+      },
+      {
+        "productId": "PRD-2012",
+        "name": "Silk Scarf Set",
+        "quantity": 1,
+        "price": 363.26
+      },
+      {
+        "productId": "PRD-2017",
+        "name": "Silver Filigree Earrings",
+        "quantity": 3,
+        "price": 56.19
+      }
+    ],
+    "total": 777.74,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-03-05T15:46:11.335004",
+    "shippingAddress": "Kunduz, Afghanistan"
+  },
+  {
+    "id": "ORD-5029",
+    "customer": "Yusuf Rasooli",
+    "customerAvatar": "https://i.pravatar.cc/150?img=39",
+    "email": "yusuf.rasooli38@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2030",
+        "name": "Painted Terracotta Plate",
+        "quantity": 1,
+        "price": 199.67
+      },
+      {
+        "productId": "PRD-2038",
+        "name": "Brass Lantern",
+        "quantity": 2,
+        "price": 445.72
+      },
+      {
+        "productId": "PRD-2036",
+        "name": "Kilim Cushion Cover",
+        "quantity": 3,
+        "price": 447.38
+      },
+      {
+        "productId": "PRD-2048",
+        "name": "Cardamom Pods 200g",
+        "quantity": 3,
+        "price": 24.07
+      }
+    ],
+    "total": 2505.46,
+    "status": "Processing",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Cash on Delivery",
+    "date": "2026-02-27T01:46:11.335411",
+    "shippingAddress": "Kabul, Afghanistan"
+  },
+  {
+    "id": "ORD-5024",
+    "customer": "Shabnam Sarwari",
+    "customerAvatar": "https://i.pravatar.cc/150?img=11",
+    "email": "shabnam.sarwari10@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2038",
+        "name": "Brass Lantern",
+        "quantity": 2,
+        "price": 445.72
+      },
+      {
+        "productId": "PRD-2026",
+        "name": "Glazed Clay Bowl Set",
+        "quantity": 2,
+        "price": 360.6
+      },
+      {
+        "productId": "PRD-2034",
+        "name": "Traveler's Leather Satchel",
+        "quantity": 3,
+        "price": 56.04
+      },
+      {
+        "productId": "PRD-2006",
+        "name": "Herati Wool Rug",
+        "quantity": 2,
+        "price": 173.86
+      }
+    ],
+    "total": 2128.48,
+    "status": "Processing",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-02-24T09:46:11.335292",
+    "shippingAddress": "Herat, Afghanistan"
+  },
+  {
+    "id": "ORD-5053",
+    "customer": "Jamal Rasooli",
+    "customerAvatar": "https://i.pravatar.cc/150?img=26",
+    "email": "jamal.rasooli25@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2040",
+        "name": "Hand-painted Tile Set",
+        "quantity": 3,
+        "price": 229.85
+      },
+      {
+        "productId": "PRD-2028",
+        "name": "Ceramic Tea Set",
+        "quantity": 1,
+        "price": 460.87
+      },
+      {
+        "productId": "PRD-2018",
+        "name": "Turquoise Ring Set",
+        "quantity": 1,
+        "price": 559.87
+      }
+    ],
+    "total": 1710.29,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-02-23T06:46:11.335930",
+    "shippingAddress": "Mazar-i-Sharif, Afghanistan"
+  },
+  {
+    "id": "ORD-5038",
+    "customer": "Karim Haidari",
+    "customerAvatar": "https://i.pravatar.cc/150?img=24",
+    "email": "karim.haidari23@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2013",
+        "name": "Handwoven Shawl",
+        "quantity": 1,
+        "price": 126.36
+      },
+      {
+        "productId": "PRD-2039",
+        "name": "Woven Wall Hanging",
+        "quantity": 2,
+        "price": 304.06
+      }
+    ],
+    "total": 734.48,
+    "status": "Pending",
+    "paymentStatus": "Failed",
+    "paymentMethod": "Credit Card",
+    "date": "2026-02-23T02:46:11.335565",
+    "shippingAddress": "Jalalabad, Afghanistan"
+  },
+  {
+    "id": "ORD-5030",
+    "customer": "Sara Karimi",
+    "customerAvatar": "https://i.pravatar.cc/150?img=29",
+    "email": "sara.karimi28@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2007",
+        "name": "Baluchi Kilim",
+        "quantity": 3,
+        "price": 470.29
+      },
+      {
+        "productId": "PRD-2022",
+        "name": "Roasted Pine Nuts 500g",
+        "quantity": 3,
+        "price": 120.47
+      },
+      {
+        "productId": "PRD-2046",
+        "name": "Wild Thyme Bundle",
+        "quantity": 1,
+        "price": 308.67
+      },
+      {
+        "productId": "PRD-2006",
+        "name": "Herati Wool Rug",
+        "quantity": 1,
+        "price": 173.86
+      }
+    ],
+    "total": 2254.81,
+    "status": "Processing",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Cash on Delivery",
+    "date": "2026-02-20T13:46:11.335423",
+    "shippingAddress": "Mazar-i-Sharif, Afghanistan"
+  },
+  {
+    "id": "ORD-5011",
+    "customer": "Karim Haidari",
+    "customerAvatar": "https://i.pravatar.cc/150?img=24",
+    "email": "karim.haidari23@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2028",
+        "name": "Ceramic Tea Set",
+        "quantity": 1,
+        "price": 460.87
+      }
+    ],
+    "total": 460.87,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "PayPal",
+    "date": "2026-02-13T04:46:11.335109",
+    "shippingAddress": "Kunduz, Afghanistan"
+  },
+  {
+    "id": "ORD-5013",
+    "customer": "Sami Zazai",
+    "customerAvatar": "https://i.pravatar.cc/150?img=7",
+    "email": "sami.zazai6@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2007",
+        "name": "Baluchi Kilim",
+        "quantity": 1,
+        "price": 470.29
+      },
+      {
+        "productId": "PRD-2037",
+        "name": "Carved Wooden Mirror Frame",
+        "quantity": 1,
+        "price": 588.0
+      },
+      {
+        "productId": "PRD-2033",
+        "name": "Leather Sandals",
+        "quantity": 3,
+        "price": 72.43
+      }
+    ],
+    "total": 1275.58,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-02-12T18:46:11.335157",
+    "shippingAddress": "Herat, Afghanistan"
+  },
+  {
+    "id": "ORD-5056",
+    "customer": "Nadia Popal",
+    "customerAvatar": "https://i.pravatar.cc/150?img=32",
+    "email": "nadia.popal31@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2026",
+        "name": "Glazed Clay Bowl Set",
+        "quantity": 2,
+        "price": 360.6
+      },
+      {
+        "productId": "PRD-2021",
+        "name": "Premium Saffron 10g",
+        "quantity": 1,
+        "price": 395.58
+      },
+      {
+        "productId": "PRD-2042",
+        "name": "Tabla Drum Set",
+        "quantity": 1,
+        "price": 448.28
+      }
+    ],
+    "total": 1565.06,
+    "status": "Pending",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Cash on Delivery",
+    "date": "2026-02-12T02:46:11.336037",
+    "shippingAddress": "Jalalabad, Afghanistan"
+  },
+  {
+    "id": "ORD-5022",
+    "customer": "Sadia Stanikzai",
+    "customerAvatar": "https://i.pravatar.cc/150?img=5",
+    "email": "sadia.stanikzai4@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2005",
+        "name": "Hand-painted Ceramic Vase",
+        "quantity": 1,
+        "price": 306.34
+      },
+      {
+        "productId": "PRD-2026",
+        "name": "Glazed Clay Bowl Set",
+        "quantity": 2,
+        "price": 360.6
+      },
+      {
+        "productId": "PRD-2048",
+        "name": "Cardamom Pods 200g",
+        "quantity": 1,
+        "price": 24.07
+      }
+    ],
+    "total": 1051.61,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-02-07T16:46:11.335267",
+    "shippingAddress": "Bamyan, Afghanistan"
+  },
+  {
+    "id": "ORD-5046",
+    "customer": "Hina Sharif",
+    "customerAvatar": "https://i.pravatar.cc/150?img=41",
+    "email": "hina.sharif40@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2024",
+        "name": "Mixed Afghan Nuts Box",
+        "quantity": 2,
+        "price": 361.16
+      },
+      {
+        "productId": "PRD-2017",
+        "name": "Silver Filigree Earrings",
+        "quantity": 1,
+        "price": 56.19
+      },
+      {
+        "productId": "PRD-2048",
+        "name": "Cardamom Pods 200g",
+        "quantity": 2,
+        "price": 24.07
+      },
+      {
+        "productId": "PRD-2002",
+        "name": "Woven Basket Set",
+        "quantity": 1,
+        "price": 245.91
+      }
+    ],
+    "total": 1072.56,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-02-06T06:46:11.335730",
+    "shippingAddress": "Kunduz, Afghanistan"
+  },
+  {
+    "id": "ORD-5027",
+    "customer": "Hamid Noori",
+    "customerAvatar": "https://i.pravatar.cc/150?img=20",
+    "email": "hamid.noori19@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2041",
+        "name": "Rubab (Traditional Lute)",
+        "quantity": 2,
+        "price": 252.84
+      },
+      {
+        "productId": "PRD-2021",
+        "name": "Premium Saffron 10g",
+        "quantity": 1,
+        "price": 395.58
+      },
+      {
+        "productId": "PRD-2010",
+        "name": "Vintage Nomad Rug",
+        "quantity": 2,
+        "price": 618.46
+      }
+    ],
+    "total": 2138.18,
+    "status": "Shipped",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "date": "2026-02-04T04:46:11.335388",
+    "shippingAddress": "Kunduz, Afghanistan"
+  },
+  {
+    "id": "ORD-5014",
+    "customer": "Hamid Sarwari",
+    "customerAvatar": "https://i.pravatar.cc/150?img=36",
+    "email": "hamid.sarwari35@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2037",
+        "name": "Carved Wooden Mirror Frame",
+        "quantity": 3,
+        "price": 588.0
+      },
+      {
+        "productId": "PRD-2015",
+        "name": "Cotton Table Runner",
+        "quantity": 3,
+        "price": 515.66
+      },
+      {
+        "productId": "PRD-2028",
+        "name": "Ceramic Tea Set",
+        "quantity": 3,
+        "price": 460.87
+      }
+    ],
+    "total": 4693.59,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-01-30T08:46:11.335181",
+    "shippingAddress": "Jalalabad, Afghanistan"
+  },
+  {
+    "id": "ORD-5006",
+    "customer": "Bilal Kohistani",
+    "customerAvatar": "https://i.pravatar.cc/150?img=40",
+    "email": "bilal.kohistani39@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2029",
+        "name": "Decorative Water Jug",
+        "quantity": 3,
+        "price": 334.29
+      }
+    ],
+    "total": 1002.87,
+    "status": "Processing",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-01-17T13:46:11.335013",
+    "shippingAddress": "Jalalabad, Afghanistan"
+  },
+  {
+    "id": "ORD-5000",
+    "customer": "Rashid Yousafi",
+    "customerAvatar": "https://i.pravatar.cc/150?img=18",
+    "email": "rashid.yousafi17@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2027",
+        "name": "Istalif Blue Vase",
+        "quantity": 1,
+        "price": 16.78
+      },
+      {
+        "productId": "PRD-2042",
+        "name": "Tabla Drum Set",
+        "quantity": 2,
+        "price": 448.28
+      }
+    ],
+    "total": 913.34,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "date": "2026-01-09T18:46:11.334923",
+    "shippingAddress": "Kandahar, Afghanistan"
+  },
+  {
+    "id": "ORD-5047",
+    "customer": "Idris Wardak",
+    "customerAvatar": "https://i.pravatar.cc/150?img=12",
+    "email": "idris.wardak11@novamail.com",
+    "items": [
+      {
+        "productId": "PRD-2003",
+        "name": "Engraved Brass Tray",
+        "quantity": 3,
+        "price": 540.03
+      },
+      {
+        "productId": "PRD-2023",
+        "name": "Dried Mulberries 1kg",
+        "quantity": 2,
+        "price": 221.98
+      }
+    ],
+    "total": 2064.05,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Cash on Delivery",
+    "date": "2026-01-07T14:46:11.335742",
+    "shippingAddress": "Mazar-i-Sharif, Afghanistan"
+  }
+]

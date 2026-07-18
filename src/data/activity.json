@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ACT-28",
+    "actor": "Tariq Yousafi",
+    "avatar": "https://i.pravatar.cc/150?img=19",
+    "action": "registered as a new seller",
+    "timestamp": "2026-07-04T20:46:11.339049",
+    "type": "user"
+  },
+  {
+    "id": "ACT-10",
+    "actor": "Hamid Noori",
+    "avatar": "https://i.pravatar.cc/150?img=20",
+    "action": "updated their account settings",
+    "timestamp": "2026-07-04T10:46:11.338930",
+    "type": "system"
+  },
+  {
+    "id": "ACT-17",
+    "actor": "Jamal Rahimi",
+    "avatar": "https://i.pravatar.cc/150?img=31",
+    "action": "updated their account settings",
+    "timestamp": "2026-07-04T07:46:11.339001",
+    "type": "system"
+  },
+  {
+    "id": "ACT-14",
+    "actor": "Kabir Sharif",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "action": "registered as a new seller",
+    "timestamp": "2026-07-03T23:46:11.338986",
+    "type": "user"
+  },
+  {
+    "id": "ACT-9",
+    "actor": "Fatima Nazari",
+    "avatar": "https://i.pravatar.cc/150?img=22",
+    "action": "added a new product listing",
+    "timestamp": "2026-07-03T16:46:11.338924",
+    "type": "product"
+  },
+  {
+    "id": "ACT-26",
+    "actor": "Tariq Yousafi",
+    "avatar": "https://i.pravatar.cc/150?img=19",
+    "action": "added a new product listing",
+    "timestamp": "2026-07-03T11:46:11.339041",
+    "type": "product"
+  },
+  {
+    "id": "ACT-4",
+    "actor": "Naveed Stanikzai",
+    "avatar": "https://i.pravatar.cc/150?img=33",
+    "action": "updated their account settings",
+    "timestamp": "2026-07-02T19:46:11.338863",
+    "type": "system"
+  },
+  {
+    "id": "ACT-5",
+    "actor": "Yusuf Ghani",
+    "avatar": "https://i.pravatar.cc/150?img=21",
+    "action": "updated their account settings",
+    "timestamp": "2026-07-02T17:46:11.338867",
+    "type": "system"
+  },
+  {
+    "id": "ACT-12",
+    "actor": "Rashid Mangal",
+    "avatar": "https://i.pravatar.cc/150?img=38",
+    "action": "placed a new order worth $3985",
+    "timestamp": "2026-07-02T13:46:11.338972",
+    "type": "order"
+  },
+  {
+    "id": "ACT-13",
+    "actor": "Tariq Stanikzai",
+    "avatar": "https://i.pravatar.cc/150?img=25",
+    "action": "updated their account settings",
+    "timestamp": "2026-07-02T08:46:11.338981",
+    "type": "system"
+  },
+  {
+    "id": "ACT-2",
+    "actor": "Kabir Sharif",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "action": "placed a new order worth $368",
+    "timestamp": "2026-07-02T07:46:11.338854",
+    "type": "order"
+  },
+  {
+    "id": "ACT-18",
+    "actor": "Sara Haidari",
+    "avatar": "https://i.pravatar.cc/150?img=34",
+    "action": "registered as a new seller",
+    "timestamp": "2026-07-01T12:46:11.339005",
+    "type": "user"
+  },
+  {
+    "id": "ACT-24",
+    "actor": "Tariq Yousafi",
+    "avatar": "https://i.pravatar.cc/150?img=19",
+    "action": "added a new product listing",
+    "timestamp": "2026-07-01T07:46:11.339032",
+    "type": "product"
+  },
+  {
+    "id": "ACT-11",
+    "actor": "Naveed Barakzai",
+    "avatar": "https://i.pravatar.cc/150?img=17",
+    "action": "left a 5-star review",
+    "timestamp": "2026-07-01T06:46:11.338937",
+    "type": "review"
+  },
+  {
+    "id": "ACT-23",
+    "actor": "Rashid Yousafi",
+    "avatar": "https://i.pravatar.cc/150?img=18",
+    "action": "registered as a new seller",
+    "timestamp": "2026-06-30T22:46:11.339028",
+    "type": "user"
+  },
+  {
+    "id": "ACT-6",
+    "actor": "Hamid Ghani",
+    "avatar": "https://i.pravatar.cc/150?img=48",
+    "action": "updated their account settings",
+    "timestamp": "2026-06-30T11:46:11.338872",
+    "type": "system"
+  },
+  {
+    "id": "ACT-29",
+    "actor": "Parwana Mangal",
+    "avatar": "https://i.pravatar.cc/150?img=23",
+    "action": "placed a new order worth $3673",
+    "timestamp": "2026-06-30T06:46:11.339055",
+    "type": "order"
+  },
+  {
+    "id": "ACT-0",
+    "actor": "Hamid Sarwari",
+    "avatar": "https://i.pravatar.cc/150?img=36",
+    "action": "added a new product listing",
+    "timestamp": "2026-06-30T01:46:11.338835",
+    "type": "product"
+  },
+  {
+    "id": "ACT-25",
+    "actor": "Yusuf Ghani",
+    "avatar": "https://i.pravatar.cc/150?img=21",
+    "action": "left a 4-star review",
+    "timestamp": "2026-06-29T12:46:11.339037",
+    "type": "review"
+  },
+  {
+    "id": "ACT-21",
+    "actor": "Sara Faizi",
+    "avatar": "https://i.pravatar.cc/150?img=35",
+    "action": "added a new product listing",
+    "timestamp": "2026-06-29T08:46:11.339019",
+    "type": "product"
+  },
+  {
+    "id": "ACT-15",
+    "actor": "Sara Karimi",
+    "avatar": "https://i.pravatar.cc/150?img=29",
+    "action": "placed a new order worth $2619",
+    "timestamp": "2026-06-29T01:46:11.338991",
+    "type": "order"
+  },
+  {
+    "id": "ACT-27",
+    "actor": "Tariq Stanikzai",
+    "avatar": "https://i.pravatar.cc/150?img=25",
+    "action": "updated their account settings",
+    "timestamp": "2026-06-28T18:46:11.339045",
+    "type": "system"
+  },
+  {
+    "id": "ACT-16",
+    "actor": "Tariq Yousafi",
+    "avatar": "https://i.pravatar.cc/150?img=45",
+    "action": "left a 3-star review",
+    "timestamp": "2026-06-28T13:46:11.338997",
+    "type": "review"
+  },
+  {
+    "id": "ACT-1",
+    "actor": "Yusuf Rasooli",
+    "avatar": "https://i.pravatar.cc/150?img=39",
+    "action": "registered as a new seller",
+    "timestamp": "2026-06-28T13:46:11.338845",
+    "type": "user"
+  },
+  {
+    "id": "ACT-8",
+    "actor": "Hamid Noori",
+    "avatar": "https://i.pravatar.cc/150?img=20",
+    "action": "updated their account settings",
+    "timestamp": "2026-06-28T05:46:11.338881",
+    "type": "system"
+  },
+  {
+    "id": "ACT-3",
+    "actor": "Jamal Rahimi",
+    "avatar": "https://i.pravatar.cc/150?img=31",
+    "action": "added a new product listing",
+    "timestamp": "2026-06-28T01:46:11.338858",
+    "type": "product"
+  },
+  {
+    "id": "ACT-22",
+    "actor": "Bilal Kohistani",
+    "avatar": "https://i.pravatar.cc/150?img=40",
+    "action": "added a new product listing",
+    "timestamp": "2026-06-27T23:46:11.339023",
+    "type": "product"
+  },
+  {
+    "id": "ACT-19",
+    "actor": "Ehsan Barakzai",
+    "avatar": "https://i.pravatar.cc/150?img=43",
+    "action": "added a new product listing",
+    "timestamp": "2026-06-27T13:46:11.339010",
+    "type": "product"
+  },
+  {
+    "id": "ACT-20",
+    "actor": "Yusuf Ghani",
+    "avatar": "https://i.pravatar.cc/150?img=21",
+    "action": "left a 3-star review",
+    "timestamp": "2026-06-27T12:46:11.339015",
+    "type": "review"
+  },
+  {
+    "id": "ACT-7",
+    "actor": "Naveed Stanikzai",
+    "avatar": "https://i.pravatar.cc/150?img=33",
+    "action": "added a new product listing",
+    "timestamp": "2026-06-27T07:46:11.338876",
+    "type": "product"
+  }
+]

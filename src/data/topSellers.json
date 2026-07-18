@@ -1,0 +1,65 @@
+[
+  {
+    "id": "VND-3",
+    "name": "Silk Road Traders",
+    "avatar": "https://i.pravatar.cc/150?img=23",
+    "orders": 1166,
+    "revenue": 253562.0,
+    "growth": 29.3,
+    "rank": 1
+  },
+  {
+    "id": "VND-1",
+    "name": "Afghan Carpets Co.",
+    "avatar": "https://i.pravatar.cc/150?img=21",
+    "orders": 1356,
+    "revenue": 246338.0,
+    "growth": 31.9,
+    "rank": 2
+  },
+  {
+    "id": "VND-2",
+    "name": "Herat Textiles",
+    "avatar": "https://i.pravatar.cc/150?img=22",
+    "orders": 806,
+    "revenue": 223953.0,
+    "growth": 1.9,
+    "rank": 3
+  },
+  {
+    "id": "VND-6",
+    "name": "Blue Dome Ceramics",
+    "avatar": "https://i.pravatar.cc/150?img=26",
+    "orders": 691,
+    "revenue": 167239.0,
+    "growth": 18.7,
+    "rank": 4
+  },
+  {
+    "id": "VND-0",
+    "name": "Kabul Handicrafts",
+    "avatar": "https://i.pravatar.cc/150?img=20",
+    "orders": 579,
+    "revenue": 161040.0,
+    "growth": 26.0,
+    "rank": 5
+  },
+  {
+    "id": "VND-5",
+    "name": "Nomad Weavers",
+    "avatar": "https://i.pravatar.cc/150?img=25",
+    "orders": 1017,
+    "revenue": 108241.0,
+    "growth": 31.4,
+    "rank": 6
+  },
+  {
+    "id": "VND-4",
+    "name": "Bamyan Artisans",
+    "avatar": "https://i.pravatar.cc/150?img=24",
+    "orders": 1297,
+    "revenue": 96369.0,
+    "growth": 6.0,
+    "rank": 7
+  }
+]

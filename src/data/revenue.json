@@ -1,0 +1,74 @@
+[
+  {
+    "month": "Jan",
+    "revenue": 151519.0,
+    "orders": 906,
+    "target": 153881.0
+  },
+  {
+    "month": "Feb",
+    "revenue": 159890.0,
+    "orders": 1275,
+    "target": 158169.0
+  },
+  {
+    "month": "Mar",
+    "revenue": 165941.0,
+    "orders": 1330,
+    "target": 165639.0
+  },
+  {
+    "month": "Apr",
+    "revenue": 174422.0,
+    "orders": 751,
+    "target": 171626.0
+  },
+  {
+    "month": "May",
+    "revenue": 189952.0,
+    "orders": 1353,
+    "target": 170305.0
+  },
+  {
+    "month": "Jun",
+    "revenue": 196225.0,
+    "orders": 1038,
+    "target": 194944.0
+  },
+  {
+    "month": "Jul",
+    "revenue": 202714.0,
+    "orders": 840,
+    "target": 172517.0
+  },
+  {
+    "month": "Aug",
+    "revenue": 221272.0,
+    "orders": 861,
+    "target": 206089.0
+  },
+  {
+    "month": "Sep",
+    "revenue": 252594.0,
+    "orders": 1187,
+    "target": 238825.0
+  },
+  {
+    "month": "Oct",
+    "revenue": 264196.0,
+    "orders": 994,
+    "target": 241536.0
+  },
+  {
+    "month": "Nov",
+    "revenue": 291663.0,
+    "orders": 791,
+    "target": 285964.0
+  },
+  {
+    "month": "Dec",
+    "revenue": 306301.0,
+    "orders": 738,
+    "target": 316301.0
+  }
+]

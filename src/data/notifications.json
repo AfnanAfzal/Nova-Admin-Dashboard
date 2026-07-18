@@ -1,0 +1,128 @@
+[
+  {
+    "id": "NOT-9",
+    "title": "New seller registered",
+    "description": "Bamyan Artisans just joined as a new seller.",
+    "timestamp": "2026-07-04T21:46:11.339932",
+    "read": false,
+    "type": "info",
+    "icon": "Info"
+  },
+  {
+    "id": "NOT-8",
+    "title": "Order delivered",
+    "description": "Order ORD-5044 was delivered successfully.",
+    "timestamp": "2026-07-03T01:46:11.339928",
+    "read": true,
+    "type": "success",
+    "icon": "CheckCircle2"
+  },
+  {
+    "id": "NOT-2",
+    "title": "Low stock alert",
+    "description": "Herati Wool Rug is running low on stock (4 left).",
+    "timestamp": "2026-07-02T06:46:11.339876",
+    "read": true,
+    "type": "warning",
+    "icon": "AlertTriangle"
+  },
+  {
+    "id": "NOT-5",
+    "title": "Pending approval",
+    "description": "3 new products are awaiting your approval.",
+    "timestamp": "2026-07-02T00:46:11.339916",
+    "read": true,
+    "type": "warning",
+    "icon": "AlertTriangle"
+  },
+  {
+    "id": "NOT-1",
+    "title": "Payment failed",
+    "description": "Payment for order ORD-5031 could not be processed.",
+    "timestamp": "2026-06-30T23:46:11.339871",
+    "read": true,
+    "type": "error",
+    "icon": "XCircle"
+  },
+  {
+    "id": "NOT-7",
+    "title": "Review received",
+    "description": "You received a new 5-star review.",
+    "timestamp": "2026-06-30T03:46:11.339924",
+    "read": true,
+    "type": "success",
+    "icon": "CheckCircle2"
+  },
+  {
+    "id": "NOT-0",
+    "title": "Review received",
+    "description": "You received a new 5-star review.",
+    "timestamp": "2026-06-28T01:46:11.339859",
+    "read": true,
+    "type": "success",
+    "icon": "CheckCircle2"
+  },
+  {
+    "id": "NOT-11",
+    "title": "Low stock alert",
+    "description": "Herati Wool Rug is running low on stock (4 left).",
+    "timestamp": "2026-06-25T06:46:11.339941",
+    "read": true,
+    "type": "warning",
+    "icon": "AlertTriangle"
+  },
+  {
+    "id": "NOT-13",
+    "title": "Order delivered",
+    "description": "Order ORD-5044 was delivered successfully.",
+    "timestamp": "2026-06-25T02:46:11.339949",
+    "read": true,
+    "type": "success",
+    "icon": "CheckCircle2"
+  },
+  {
+    "id": "NOT-12",
+    "title": "Low stock alert",
+    "description": "Herati Wool Rug is running low on stock (4 left).",
+    "timestamp": "2026-06-24T18:46:11.339945",
+    "read": true,
+    "type": "warning",
+    "icon": "AlertTriangle"
+  },
+  {
+    "id": "NOT-3",
+    "title": "Low stock alert",
+    "description": "Herati Wool Rug is running low on stock (4 left).",
+    "timestamp": "2026-06-24T00:46:11.339881",
+    "read": false,
+    "type": "warning",
+    "icon": "AlertTriangle"
+  },
+  {
+    "id": "NOT-10",
+    "title": "Payment failed",
+    "description": "Payment for order ORD-5031 could not be processed.",
+    "timestamp": "2026-06-22T21:46:11.339936",
+    "read": true,
+    "type": "error",
+    "icon": "XCircle"
+  },
+  {
+    "id": "NOT-4",
+    "title": "Low stock alert",
+    "description": "Herati Wool Rug is running low on stock (4 left).",
+    "timestamp": "2026-06-22T20:46:11.339910",
+    "read": true,
+    "type": "warning",
+    "icon": "AlertTriangle"
+  },
+  {
+    "id": "NOT-6",
+    "title": "Weekly report ready",
+    "description": "Your weekly analytics report is ready to view.",
+    "timestamp": "2026-06-20T17:46:11.339920",
+    "read": true,
+    "type": "info",
+    "icon": "Info"
+  }
+]

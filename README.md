@@ -1,222 +1,57 @@
-# 🚀 Nova Admin Dashboard
+# Nova Admin — Enterprise SaaS Dashboard
 
-A modern, responsive, and enterprise-inspired **Frontend Admin Dashboard** built with **React 19**, **TypeScript**, **Vite**, and **Tailwind CSS**.
+A production-quality admin dashboard frontend built with React 19, TypeScript, Vite, Tailwind CSS,
+shadcn/ui-style components, TanStack Query, Zustand, React Hook Form + Zod, Recharts, and Framer Motion.
 
-> ⚠️ **Disclaimer:** This is a **Frontend Demo Project** created for learning, portfolio, and UI showcase purposes. It does **not** include a real backend, database, or authentication server. All data is mocked locally to simulate a real-world admin panel.
+Inspired by a reference marketplace admin panel, redesigned with a distinctive indigo/violet
+enterprise SaaS visual identity, deeper information hierarchy, and a fuller feature set.
 
----
-
-## 🌟 Preview
-
-> Add your project screenshots inside the `screenshots` folder.
-
-### Dashboard
-
-![Dashboard](./screenshots/dashboard.png)
-
----
-
-## ✨ Features
-
-- Responsive Enterprise Dashboard
-- Modern UI/UX Design
-- Authentication UI (Demo)
-- Dashboard Analytics
-- User Management
-- Product Management
-- Orders Management
-- Categories Management
-- Messages Module
-- Notifications
-- User Profile
-- Settings
-- CRUD UI using Mock Data
-- Search, Filter & Pagination
-- Charts & Analytics
-- Dark / Light Theme
-- Mobile Responsive Layout
-- Reusable Components
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-- React 19
-- TypeScript
-- Vite
-- Tailwind CSS
-
-### State Management
-
-- Zustand
-- TanStack Query
-
-### Forms & Validation
-
-- React Hook Form
-- Zod
-
-### Charts
-
-- Recharts
-
-### Animation
-
-- Framer Motion
-
-### Icons
-
-- Lucide React
-
----
-
-## 📂 Folder Structure
-
-```text
-src/
-│
-├── components/
-├── pages/
-├── hooks/
-├── routes/
-├── store/
-├── data/
-├── types/
-├── assets/
-└── utils/
-```
-
----
-
-## 🚀 Getting Started
-
-### Clone Repository
-
-```bash
-git clone https://github.com/AfnanAfzal/Nova-Admin-Dashboard.git
-```
-
-### Go to Project
-
-```bash
-cd Nova-Admin-Dashboard
-```
-
-### Install Dependencies
+## Getting started
 
 ```bash
 npm install
-```
-
-### Start Development Server
-
-```bash
 npm run dev
 ```
 
-### Build Project
+Then open the printed local URL (default `http://localhost:5173`).
 
-```bash
-npm run build
+Sign in on the login screen with **any email address** and the password:
+
+```
+demo1234
 ```
 
-### Preview Build
+## Scripts
 
-```bash
-npm run preview
+- `npm run dev` — start the Vite dev server
+- `npm run build` — type-check and build for production
+- `npm run preview` — preview the production build locally
+- `npm run lint` — run ESLint
+- `npm run format` — run Prettier
+
+## Project structure
+
+```
+src/
+  components/
+    ui/            reusable primitives (button, card, dialog, table, select, ...)
+    layout/        Sidebar, Topbar, MobileNav, AppLayout
+    dashboard/     Dashboard-only widgets (charts, activity feed, quick actions, ...)
+    common/        shared building blocks (PageHeader, DataTable helpers, EmptyState, ...)
+  pages/           one file per route
+  hooks/           TanStack Query data hooks (simulated CRUD) + generic useTable/useDebounce
+  store/           Zustand stores (auth, theme, sidebar) with persistence
+  data/            local JSON mock data (users, products, orders, categories, messages, ...)
+  types/           shared TypeScript interfaces
+  routes/          ProtectedRoute guard
 ```
 
----
+## Notes
 
-## 📋 Available Scripts
-
-| Command | Description |
-|----------|-------------|
-| npm install | Install dependencies |
-| npm run dev | Start development server |
-| npm run build | Create production build |
-| npm run preview | Preview production build |
-| npm run lint | Run ESLint |
-| npm run format | Format code with Prettier |
-
----
-
-## 🎯 Project Purpose
-
-This project was developed to demonstrate:
-
-- Modern React Development
-- Enterprise Dashboard UI
-- Component-Based Architecture
-- Responsive Design
-- State Management
-- CRUD Interface Design
-- Dashboard Layout
-- Data Visualization
-- Clean Folder Structure
-- Frontend Best Practices
-
----
-
-## 📌 Current Limitations
-
-- Frontend Only
-- No Backend Integration
-- No Database
-- No Real Authentication
-- Uses Mock JSON Data
-- CRUD operations are simulated
-
----
-
-## 🔮 Future Improvements
-
-- REST API Integration
-- Node.js / Express Backend
-- MongoDB / PostgreSQL Database
-- JWT Authentication
-- Role Based Access Control
-- Real-Time Notifications
-- Image Upload
-- Dashboard Reports
-- Unit Testing
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are always welcome.
-
-Feel free to fork this repository and submit a Pull Request.
-
----
-
-## 📬 Contact
-
-### Afnan Afzal
-
-**Frontend Developer | React.js Developer | BS Computer Science Student**
-
-📧 Email: sardarafnanafzal@gmail.com
-
-🐙 GitHub
-
-https://github.com/AfnanAfzal
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/afnanafzal
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## ⭐ Support
-
-If you like this project, don't forget to **Star** ⭐ the repository.
+- All data is mocked locally in `src/data/*.json` and mutated in-memory through the hooks in
+  `src/hooks`; there is no backend. Refreshing the page resets any changes.
+- Auth state, theme, and sidebar collapse state persist to `localStorage` via Zustand's
+  `persist` middleware.
+- Tables support search, column sorting, status/category filtering, and pagination through the
+  generic `useTable` hook — see `src/pages/Users.tsx`, `Products.tsx`, and `Orders.tsx` for usage.
+- Dark mode is class-based (`class="dark"` on `<html>`) and fully covers every page.

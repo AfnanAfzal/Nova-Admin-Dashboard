@@ -1,0 +1,102 @@
+[
+  {
+    "id": "CAT-100",
+    "name": "Handicrafts",
+    "description": "Traditional handmade Afghan crafts and artisan goods",
+    "icon": "Hammer",
+    "productsCount": 144,
+    "status": "Active",
+    "color": "#F59E0B",
+    "createdAt": "2025-03-11T05:46:11.332191"
+  },
+  {
+    "id": "CAT-101",
+    "name": "Carpets & Rugs",
+    "description": "Hand-woven carpets, kilims and rugs",
+    "icon": "Layers",
+    "productsCount": 291,
+    "status": "Active",
+    "color": "#8B5CF6",
+    "createdAt": "2025-07-11T22:46:11.332205"
+  },
+  {
+    "id": "CAT-102",
+    "name": "Textiles",
+    "description": "Fabrics, embroidery and traditional clothing",
+    "icon": "Shirt",
+    "productsCount": 50,
+    "status": "Active",
+    "color": "#EC4899",
+    "createdAt": "2026-05-25T05:46:11.332212"
+  },
+  {
+    "id": "CAT-103",
+    "name": "Jewelry",
+    "description": "Precious stones, lapis lazuli and handmade jewelry",
+    "icon": "Gem",
+    "productsCount": 141,
+    "status": "Active",
+    "color": "#06B6D4",
+    "createdAt": "2026-06-14T10:46:11.332217"
+  },
+  {
+    "id": "CAT-104",
+    "name": "Dried Fruits & Nuts",
+    "description": "Premium dried fruits, nuts and saffron",
+    "icon": "Nut",
+    "productsCount": 93,
+    "status": "Active",
+    "color": "#10B981",
+    "createdAt": "2025-03-07T08:46:11.332223"
+  },
+  {
+    "id": "CAT-105",
+    "name": "Pottery & Ceramics",
+    "description": "Traditional glazed pottery and ceramics",
+    "icon": "Amphora",
+    "productsCount": 73,
+    "status": "Active",
+    "color": "#F97316",
+    "createdAt": "2025-11-23T15:46:11.332228"
+  },
+  {
+    "id": "CAT-106",
+    "name": "Leather Goods",
+    "description": "Handcrafted leather bags, shoes and belts",
+    "icon": "Briefcase",
+    "productsCount": 146,
+    "status": "Active",
+    "color": "#78716C",
+    "createdAt": "2026-01-14T10:46:11.332233"
+  },
+  {
+    "id": "CAT-107",
+    "name": "Home Decor",
+    "description": "Decorative items and furnishings",
+    "icon": "Sofa",
+    "productsCount": 325,
+    "status": "Inactive",
+    "color": "#6366F1",
+    "createdAt": "2026-03-10T00:46:11.332238"
+  },
+  {
+    "id": "CAT-108",
+    "name": "Musical Instruments",
+    "description": "Traditional Afghan instruments",
+    "icon": "Music",
+    "productsCount": 174,
+    "status": "Active",
+    "color": "#EF4444",
+    "createdAt": "2026-06-08T20:46:11.332243"
+  },
+  {
+    "id": "CAT-109",
+    "name": "Spices & Herbs",
+    "description": "Saffron, spices and traditional herbs",
+    "icon": "Flame",
+    "productsCount": 309,
+    "status": "Active",
+    "color": "#84CC16",
+    "createdAt": "2025-06-15T17:46:11.332248"
+  }
+]
