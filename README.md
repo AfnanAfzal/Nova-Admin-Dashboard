@@ -6,6 +6,8 @@ shadcn/ui-style components, TanStack Query, Zustand, React Hook Form + Zod, Rech
 Inspired by a reference marketplace admin panel, redesigned with a distinctive indigo/violet
 enterprise SaaS visual identity, deeper information hierarchy, and a fuller feature set.
 
+🌐 **Live Demo:** https://nova-admindashboard.netlify.app
+
 ## Getting started
 
 ```bash
